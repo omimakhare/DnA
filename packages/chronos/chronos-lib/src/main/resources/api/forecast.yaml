@@ -75,7 +75,7 @@ paths:
     get:
       tags:
         - "forecast-projects"
-      summary: "Get all forecast projects for the user."
+      summary: "Get all forecast projects for the user. updated description"
       description:  "Get all forecasts projects for the user."
       operationId: "getAll"
       parameters:
